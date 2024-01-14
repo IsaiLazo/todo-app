@@ -15,9 +15,9 @@ Requisitos:
 - Node
 
 Pasos a seguir para usar localmente este proyecto
-- Ejecutar los siguientes comandos:
+Ejecutar los siguientes comandos:
 - ```npm install```
 - ```npm run dev```
 
 ### El proyecto se puede probar en el siguiente link:
-- [todo-app](todo-app-isailazo.netlify.app)
+- [todo-app](https://todo-app-isailazo.netlify.app)
